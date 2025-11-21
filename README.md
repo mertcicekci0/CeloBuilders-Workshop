@@ -14,9 +14,9 @@
   **1. Create app in Cursor to allow users to mint an ERC20**
 
 ```
-Build a Celo dApp using the Celo Composer starter and the Composer Kit component library.
+Within my existing app, I want you to use  the Composer Kit component library to create an app that lets users connect their wallet address and mint.
 
-The app should use Hardhat for smart contract development, deploy an example ERC-20 contract on Celo Alfajores, and include a simple front end that connects a wallet and lets users mint 1 token and view their token balance.
+The app should use HardHat for smart contract development, deploy an example ERC-20 contract on Celo Alfajores, and include a simple frontend that connects a wallet and lets users mint 1 Token and view their token balance
 
 Use @celo/react-components (Composer Kit) to design the UI. Make sure the UI is mobile-friendly.
 
